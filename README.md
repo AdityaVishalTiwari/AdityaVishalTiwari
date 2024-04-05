@@ -8,38 +8,38 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 - 💬 Ask me about anything related to data manipulation, analysis, or machine learning algorithms!
 
 ## Skills
-### Machine Learning
-![Supervised Learning](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg)
-![Unsupervised Learning](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg)
-![Reinforcement Learning](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg)
+## Machine Learning
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
 
-### Deep Learning
-![Neural Networks](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg)
-![Convolutional Neural Networks (CNNs)](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg)
-![Recurrent Neural Networks (RNNs)](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg)
-![Generative Adversarial Networks (GANs)](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg)
+## Deep Learning
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
 
-### Languages
-![Python](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg)
-![C/C++](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cplusplus.svg)
+## Languages
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cplusplus.svg" width="50" height="50">
 
-### Frameworks/Libraries
-![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)
-![TensorFlow](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg)
-![Scikit-learn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg)
-![NumPy](https://numpy.org/images/logos/numpy.svg)
-![Pandas](https://pandas.pydata.org/static/img/pandas.svg)
+## Frameworks/Libraries
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
+<img src="https://numpy.org/images/logos/numpy.svg" width="50" height="50">
+<img src="https://pandas.pydata.org/static/img/pandas.svg" width="50" height="50">
 
-### Tools
-![Jupyter](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)
+## Tools
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="50" height="50">
 
-### Data Visualization
-![Matplotlib](https://matplotlib.org/stable/_static/logo2_compressed.svg)
-![Seaborn](https://seaborn.pydata.org/_images/seaborn-logo.png)
+## Data Visualization
+<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50">
+<img src="https://seaborn.pydata.org/_images/seaborn-logo.png" width="50" height="50">
 
-### Web Development
-![Flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)
+## Web Development
+<img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" width="50" height="50">
 
 
 ## Interests
