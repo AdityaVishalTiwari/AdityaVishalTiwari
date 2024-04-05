@@ -8,12 +8,20 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 - 💬 Ask me about anything related to data manipulation, analysis, or machine learning algorithms!
 
 ## Skills
-* Machine Learning: Supervised learning, unsupervised learning, reinforcement learning
-* Deep Learning: Neural network architectures (CNNs, RNNs, GANs)
+* Machine Learning:
+[![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Supervised_learning)
+[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Unsupervised_learning)
+[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
-* Languages
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+* Deep Learning:
+[![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_neural_network)
+[![CNNs](https://img.shields.io/badge/CNNs-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[![RNNs](https://img.shields.io/badge/RNNs-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+[![GANs](https://img.shields.io/badge/GANs-%23000000.svg?&style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+
+* Languages:
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
 * Frameworks/Libraries: 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
@@ -23,18 +31,16 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 
-## Tools
-<img src="https://img.icons8.com/color/48/000000/jupyter-logo.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+* Tools:
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
 
-## Data Visualization
-<img src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
-<img src="https://img.icons8.com/color/48/000000/seaborn.png"/>
+* Data Visualization:
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?&style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-## Web Development
-<img src="https://img.icons8.com/color/48/000000/flask.png"/>
-
-
+* Web Development:
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ## Interests
 - Natural Language Processing (NLP)
