@@ -15,13 +15,13 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-* Frameworks/Libraries
+* Frameworks/Libraries: 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-<img src="![image](https://github.com/AdityaVishalTiwari/AdityaVishalTiwari/assets/159645366/64f91df8-40fc-4751-bcce-4a33937d965a)
-"/>
-<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
-<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-<img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%239977EE.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
 
 ## Tools
 <img src="https://img.icons8.com/color/48/000000/jupyter-logo.png"/>
