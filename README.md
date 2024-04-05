@@ -12,11 +12,11 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 * Deep Learning: Neural network architectures (CNNs, RNNs, GANs)
 
 * Languages
-Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
-C/C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 * Frameworks/Libraries
-<img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
+<img src="[https://img.icons8.com/color/48/000000/pytorch.png](https://icons8.com/icon/O6SWwpPIM0GB/pytorch)"/>
 <img src="![image](https://github.com/AdityaVishalTiwari/AdityaVishalTiwari/assets/159645366/64f91df8-40fc-4751-bcce-4a33937d965a)
 "/>
 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
