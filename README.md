@@ -16,7 +16,7 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 * Frameworks/Libraries
-<img src="[https://img.icons8.com/color/48/000000/pytorch.png](https://icons8.com/icon/O6SWwpPIM0GB/pytorch)"/>
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 <img src="![image](https://github.com/AdityaVishalTiwari/AdityaVishalTiwari/assets/159645366/64f91df8-40fc-4751-bcce-4a33937d965a)
 "/>
 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
