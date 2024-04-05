@@ -39,7 +39,7 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?&style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-* Web Development:
+* Web Framework:
 [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ## Interests
