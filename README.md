@@ -8,24 +8,17 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 - 💬 Ask me about anything related to data manipulation, analysis, or machine learning algorithms!
 
 ## Skills
-## Machine Learning
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
+* Machine Learning: Supervised learning, unsupervised learning, reinforcement learning
+* Deep Learning: Neural network architectures (CNNs, RNNs, GANs)
 
-## Deep Learning
-<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
-<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
-<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
-<img src="https://img.icons8.com/color/48/000000/gan.png"/>
+* Languages
+Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
+C/C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-## Languages
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-
-## Frameworks/Libraries
+* Frameworks/Libraries
 <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img src="![image](https://github.com/AdityaVishalTiwari/AdityaVishalTiwari/assets/159645366/64f91df8-40fc-4751-bcce-4a33937d965a)
+"/>
 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
