@@ -9,37 +9,38 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 
 ## Skills
 ## Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
+<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
+<img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
 
 ## Deep Learning
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
+<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
+<img src="https://img.icons8.com/color/48/000000/neural-network.png"/>
+<img src="https://img.icons8.com/color/48/000000/gan.png"/>
 
 ## Languages
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cplusplus.svg" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 ## Frameworks/Libraries
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" width="50" height="50">
-<img src="https://numpy.org/images/logos/numpy.svg" width="50" height="50">
-<img src="https://pandas.pydata.org/static/img/pandas.svg" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
+<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+<img src="https://img.icons8.com/color/48/000000/pandas.png"/>
 
 ## Tools
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/jupyter-logo.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
 ## Data Visualization
-<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50">
-<img src="https://seaborn.pydata.org/_images/seaborn-logo.png" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
+<img src="https://img.icons8.com/color/48/000000/seaborn.png"/>
 
 ## Web Development
-<img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/flask.png"/>
+
 
 
 ## Interests
