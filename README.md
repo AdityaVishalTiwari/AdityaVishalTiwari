@@ -1,5 +1,5 @@
 ## - 👋 Hi there! I’m @AdityaVishalTiwari
-I'm an enthusiastic student pursuing an Artificial Intelligence and Machine Learning Engineering degree. My passion lies in unraveling the complexities of data science, where I find joy in deciphering patterns from raw data and translating them into actionable strategies. Here's a peek into my journey:
+An enthusiastic student pursuing an Artificial Intelligence and Machine Learning Engineering degree. My passion lies in unraveling the complexities of data science, where I find joy in deciphering patterns from raw data and translating them into actionable strategies. Here's a peek into my journey:
 
 ## About Me
 - 🔭 I’m currently working on various data science and machine learning projects.
