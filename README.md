@@ -34,6 +34,7 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 * Tools:
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE33.svg?&style=for-the-badge&logo=Hugging%20Face&logoColor=white)](https://huggingface.co/)
 
 * Data Visualization:
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
