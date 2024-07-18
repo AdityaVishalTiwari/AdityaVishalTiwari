@@ -1,9 +1,9 @@
 ## - 👋 Hi there! I’m @AdityaVishalTiwari
-I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Machine Learning Engineering. My passion lies in unraveling the complexities of data science, where I find joy in deciphering patterns from raw data and translating them into actionable strategies. Here's a peek into my journey:
+I'm an enthusiastic student pursuing an Artificial Intelligence and Machine Learning Engineering degree. My passion lies in unraveling the complexities of data science, where I find joy in deciphering patterns from raw data and translating them into actionable strategies. Here's a peek into my journey:
 
 ## About Me
 - 🔭 I’m currently working on various data science and machine learning projects.
-- 🌱 I’m continuously learning and expanding my expertise in AI, ML, and data science.
+- 🌱 I’m continuously learning and expanding my AI, ML, and data science expertise.
 - 💡 I enjoy tackling real-world problems and driving impactful outcomes through technology.
 - 💬 Ask me about anything related to data manipulation, analysis, or machine learning algorithms!
 
@@ -50,4 +50,4 @@ I'm an enthusiastic student pursuing a degree in Artificial Intelligence and Mac
 - NoSQL/SQL Databases
 
 ## Let's Connect!
-LinkedIn: https://www.linkedin.com/in/aditya-vishal-tiwari-a04347159/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-vishal-tiwari-a04347159/)
